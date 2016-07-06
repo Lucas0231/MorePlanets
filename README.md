@@ -1,2 +1,2 @@
-# MorePlanets
-Repository for reporting issues, version check and creating custom languages.
+# More Planets
+Repository for reporting issues (Old and New) and creating other languages.
