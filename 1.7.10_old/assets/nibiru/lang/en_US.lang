@@ -62,7 +62,7 @@ tile.mp_wall.nibiru.name=Nibiru Cobblestone Wall
 tile.mp_dungeon_brick_wall.nibiruBrick.name=Nibiru Dungeon Brick Wall
 
 # ITEMS
-item.nibiru_dungeon_key.name=Tier 6 Nibiru Dungeon Key
+item.nibiru_dungeon_key.name=Tier 6 Dungeon Key
 item.nibiru_food.space_apple.name=Space Apple
 item.nibiru_food.space_orange.name=Space Orange
 item.power_crystal.name=Ichorius Gem

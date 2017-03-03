@@ -39,7 +39,7 @@ tile.mp_wall.kapteyn.name=Kapteyn B Cobblestone Wall
 tile.mp_dungeon_brick_wall.kapteynBrick.name=Kapteyn B Dungeon Brick Wall
 
 # ITEMS
-item.kapteyn-b_dungeon_key.name=Tier 8 Kapteyn B Dungeon Key
+item.kapteyn-b_dungeon_key.name=Tier 8 Dungeon Key
 item.uranium_battery.name=Uranium Battery
 item.kapteyn-b_item.frozen_iron_ingot.name=Frozen Iron Ingot
 item.kapteyn-b_item.uranium_gem.name=Uranium Gem
@@ -92,6 +92,7 @@ item.breathable_ice_crystal_helmet.name=Breathable Ice Crystal Helmet
 
 # ENTITIES
 entity.MorePlanet.FrozenSludgeling.name=Frozen Sludgeling
+entity.MorePlanet.KapteynBCreeperBoss.name=Kapteyn B Creeper Boss
 
 # DESCRIFTION
 schematic.tier8.rocket.name=Tier 8 Rocket
