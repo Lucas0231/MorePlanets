@@ -37,6 +37,25 @@ tile.tinted_glass.brown.name=Brown Tinted Glass
 tile.tinted_glass.green.name=Green Tinted Glass
 tile.tinted_glass.red.name=Red Tinted Glass
 tile.tinted_glass.black.name=Black Tinted Glass
+tile.half_dungeon_brick_slab_1.diona.name=Diona Dungeon Brick Slab
+tile.half_dungeon_brick_slab_1.chalos.name=Chalos Dungeon Brick Slab
+tile.half_dungeon_brick_slab_1.nibiru.name=Nibiru Dungeon Brick Slab
+tile.tiered_energy_storage_cluster.dark_energy.name=Dark Energy Storage Cluster
+tile.tiered_energy_storage_cluster.nuclear_waste.name=Nuclear Waste Energy Storage Cluster
+tile.half_cobblestone_slab_1.diona.name=Diona Cobblestone Slab
+tile.half_cobblestone_slab_1.chalos.name=Chalos Cobblestone Slab
+tile.half_cobblestone_slab_1.nibiru.name=Nibiru Cobblestone Slab
+tile.half_wooden_slab_1.cheese_spore.name=Cheese Spore Wood Slab
+tile.half_wooden_slab_1.infected.name=Infected Wood Slab
+tile.half_wooden_slab_1.infected_dead_oak.name=Infected Dead Oak Wood Slab
+tile.half_wooden_slab_1.alien_berry.name=Alien Berry Oak Wood Slab
+tile.cobblestone_wall_mp.diona.name=Diona Cobblestone Wall
+tile.cobblestone_wall_mp.chalos.name=Chalos Cobblestone Wall
+tile.cobblestone_wall_mp.nibiru.name=Nibiru Cobblestone Wall
+tile.dungeon_brick_wall_mp.diona.name=Diona Dungeon Brick Wall
+tile.dungeon_brick_wall_mp.chalos.name=Chalos Dungeon Brick Wall
+tile.dungeon_brick_wall_mp.nibiru.name=Nibiru Dungeon Brick Wall
+tile.space_portal.name=Space Portal
 
 # BLOCKS - DIONA
 tile.diona_block.surface_rock.name=Diona Surface Rock
@@ -66,6 +85,11 @@ tile.large_infected_crystallize.name=Large Infected Crystallize Crystal
 tile.alien_miner_blood.name=Alien Miner Blood
 tile.infected_crystallize_slime_block.name=Infected Crystallize Slime Block
 tile.dark_energy_core.name=Dark Energy Core
+tile.diona_cobblestone_stairs.name=Diona Cobblestone Stairs
+tile.diona_dungeon_brick_stairs.name=Diona Dungeon Brick Stairs
+tile.dark_energy_generator.name=Dark Energy Generator
+tile.glowing_iron_block.name=Glowing Iron Block
+tile.crashed_alien_probe.name=Crashed Alien Probe
 
 # BLOCKS - CHALOS
 tile.cheese_grass.name=Cheese Grass
@@ -88,20 +112,25 @@ tile.cheese_of_milk_cake.name=Cheese of Milk Cake
 tile.chalos_ancient_chest.name=Chalos Ancient Chest
 tile.chalos_treasure_chest.name=Chalos Treasure Chest
 tile.cheese_spore_flower.name=Cheese Spore Flower
-tile.cheese_tall_grass.name=Cheese Tall Grass
+tile.cheese_tall_grass.name=Cheese Tallgrass
 tile.cheese_spore_block.name=Cheese Spore
 tile.cheese_spore_stem.name=Cheese Spore Stem
 tile.cheese_spore_planks.name=Cheese Spore Planks
-tile.cheese_double_tall_grass.name=Cheese Double Tall Grass
+tile.cheese_double_tall_grass.name=Cheese Double Tallgrass
 tile.chalos_crafting_table.name=Chalos Crafting Table
 tile.cheese_spore_chest.name=Cheese Spore Chest
+tile.chalos_cobblestone_stairs.name=Chalos Cobblestone Stairs
+tile.chalos_dungeon_brick_stairs.name=Chalos Dungeon Brick Stairs
+tile.cheese_spore_stairs.name=Cheese Spore Stairs
+tile.cheese_spore_fence.name=Cheese Spore Fence
+tile.cheese_spore_fence_gate.name=Cheese Spore Fence Gate
 
 # BLOCKS - NIBIRU
 tile.infected_grass.name=Infected Grass
 tile.infected_dirt.dirt.name=Infected Dirt
 tile.infected_dirt.coarse.name=Infected Coarse Dirt
-tile.infected_tall_grass.tall_grass.name=Infected Tall Grass
-tile.infected_tall_grass.fern.name=Infected Fern
+tile.nibiru_tall_grass.tall_grass.name=Infected Tallgrass
+tile.nibiru_tall_grass.fern.name=Infected Fern
 tile.infected_sand.name=Infected Sand
 tile.infected_cactus.name=Infected Cactus
 tile.nibiru_block.nibiru_rock.name=Nibiru Rock
@@ -154,12 +183,16 @@ tile.nibiru_silverfish_stone.infected_stone_bricks.name=Infected Stone Bricks Wo
 tile.nibiru_silverfish_stone.infected_vein_stone_bricks.name=Infected Vein Stone Bricks Worm Egg
 tile.nibiru_silverfish_stone.infected_cracked_stone_bricks.name=Cracked Infected Stone Bricks Worm Egg
 tile.nibiru_silverfish_stone.infected_chiseled_stone_bricks.name=Chiseled Infected Stone Bricks Worm Egg
-tile.nibiru_fence.infected_fence.name=Infected Fence
-tile.nibiru_fence.infected_dead_oak_fence.name=Infected Dead Oak Fence
+tile.nibiru_fence.infected.name=Infected Fence
+tile.nibiru_fence.infected_dead_oak.name=Infected Dead Oak Fence
+tile.nibiru_fence.alien_berry_oak.name=Alien Berry Oak Fence
 tile.infected_fence_gate.name=Infected Fence Gate
 tile.infected_dead_oak_fence_gate.name=Infected Dead Oak Fence Gate
-tile.infected_orange_rose_bush.name=Infected Orange Rose Bush
-tile.nibiru_bookshelf.name=Infected Bookshelf
+tile.nibiru_double_plant.orange_rose_bush.name=Infected Orange Rose Bush
+tile.nibiru_double_plant.infected_grass.name=Double Infected Tallgrass
+tile.nibiru_double_plant.infected_fern.name=Infected Large Fern
+tile.nibiru_bookshelf.nibiru.name=Infected Bookshelf
+tile.nibiru_bookshelf.alien_berry.name=Alien Berry Bookshelf
 tile.nibiru_ancient_chest.name=Nibiru Ancient Chest
 tile.nibiru_cobblestone_stairs.name=Nibiru Cobblestone Stairs
 tile.nibiru_stone_bricks_stairs.name=Infected Stone Bricks Stairs
@@ -168,7 +201,7 @@ tile.infected_snow.name=Infected Snow
 tile.infected_ice.name=Infected Ice
 tile.infected_packed_ice.name=Infected Packed Ice
 tile.green_vein_grass.name=Green Vein Grass
-tile.infected_tall_grass.green_vein.name=Green Vein Tall Grass
+tile.nibiru_tall_grass.green_vein.name=Green Vein Tallgrass
 tile.nibiru_flower.terrapuff_hurb.name=Terrapuff Hurb
 tile.infected_melon_block.name=Infected Melon Block
 tile.infected_gravel.name=Infected Gravel
@@ -181,26 +214,60 @@ tile.nibiru_flower.vealium_vine_flower.name=Vealium Vine
 tile.nibiru_treasure_chest.name=Nibiru Treasure Chest
 tile.infected_chest.name=Infected Chest
 tile.multalic_crystal.name=Multalic Crystal
+tile.multalic_crystal_block.name=Multalic Crystal Block
 tile.infected_prismarine.prismarine.name=Infected Prismarine
 tile.infected_prismarine.bricks.name=Infected Prismarine Bricks
 tile.infected_prismarine.dark.name=Infected Dark Prismarine
 tile.infected_sea_lantern.name=Infected Sea Lantern
 tile.infected_sponge.infected_sponge.name=Infected Sponge
 tile.infected_sponge.infected_wet_sponge.name=Infected Wet Sponge
-item.infected_prismarine_item.shard.name=Infected Prismarine Shard
-item.infected_prismarine_item.crystals.name=Infected Prismarine Crystals
 tile.alien_berry_chest.name=Alien Berry Chest
 tile.nibiru_seaweed.seaweed.name=Infected Seaweed
 tile.oil_ore.name=Oil Ore
 tile.infected_vines_dirt.name=Infected Vines Dirt
 tile.nibiru_furnace.name=Nibiru Furnace
 tile.infected_torch.name=Infected Torch
+tile.juicer_egg.name=Juicer Egg
+tile.infected_oak_stairs.name=Infected Oak Stairs
+tile.infected_dead_oak_stairs.name=Infected Dead Oak Stairs
+tile.alien_berry_oak_stairs.name=Alien Berry Oak Stairs
+tile.nibiru_dungeon_brick_stairs.name=Nibiru Dungeon Brick Stairs
+tile.infected_prismarine_stairs.name=Infected Prismarine Stairs
+tile.infected_prismarine_brick_stairs.name=Infected Prismarine Brick Stairs
+tile.infected_dark_prismarine_stairs.name=Infected Dark Prismarine Stairs
+tile.infected_vein_stone_bricks_stairs.name=Infected Vein Stone Bricks Stairs
+tile.cracked_infected_stone_bricks_stairs.name=Cracked Infected Stone Bricks
+tile.nibiru_smooth_sandstone_stairs.name=Nibiru Smooth Sandstone Stairs
+tile.nuclear_waste_tank.name=Nuclear Waste Tank
+tile.vein_frame.name=Vein Frame
+tile.nuclear_waste_generator.name=Nuclear Waste Generator
+tile.alien_berry_oak_fence_gate.name=Alien Berry Oak Fence Gate
+tile.half_infected_prismarine_slab.prismarine.name=Infected Prismarine Slab
+tile.half_infected_prismarine_slab.bricks.name=Infected Prismarine Brick Slab
+tile.half_infected_prismarine_slab.dark.name=Infected Dark Prismarine Slab
+tile.half_infected_stone_bricks_slab.bricks.name=Infected Stone Bricks Slab
+tile.half_infected_stone_bricks_slab.vein.name=Infected Vein Stone Bricks Slab
+tile.half_infected_stone_bricks_slab.cracked.name=Cracked Infected Stone Bricks Slab
+tile.half_nibiru_sandstone_slab.default.name=Nibiru Sandstone Slab
+tile.half_nibiru_sandstone_slab.smooth.name=Nibiru Smooth Sandstone Slab
+tile.terrastone.name=Terrastone
+tile.purify_gravel.name=Purify Gravel
+tile.nibiru_double_plant.green_vein_grass.name=Double Green Vein Tallgrass
+tile.nibiru_flower.terrashroom.name=Terrashroom
+tile.huge_terrashroom_block.name=Terrashroom Block
+tile.terrastone_stairs.name=Terrastone Stairs
+tile.half_infected_stone_bricks_slab.terrastone.name=Terrastone Slab
+tile.terrastone_furnace.name=Terrastone Furnace
+tile.sealable_nuclear_waste_rod.name=Sealable Nuclear Waste Rod
 
 # ITEMS
 item.space_warper_core.name=Space Warper Core
 item.capsule.name=Capsule
 item.space_bow.name=Space Bow
 item.space_fishing_rod.name=Space Fishing Rod
+item.dye_mp.name=Blue Dye
+item.laser_gun.name=Laser Gun
+item.laser_bullet.normal.name=Laser Bullet
 
 # ITEMS - DIONA
 item.diona_dungeon_key.name=Diona Dungeon Key
@@ -229,6 +296,9 @@ item.infected_crystallize_bomb.name=Infected Crystallize Bomb
 item.infected_crystallize_slimeball.name=Infected Crystallize Slimeball
 item.diona_item.alien_miner_part.name=Alien Miner Part
 item.infected_crystallize_arrow.name=Infected Crystallize Arrow
+item.crystallize_water_bucket.name=Crystallize Water Bucket
+item.crystallize_lava_bucket.name=Crystallize Lava Bucket
+item.dark_energy_pearl.name=Dark Energy Pearl
 
 # ITEMS - CHALOS
 item.cheese_food.cheese_of_milk_curd.name=Cheese of Milk Curd
@@ -262,23 +332,28 @@ item.cheese_spore_wood_pickaxe.name=Cheese Spore Wooden Pickaxe
 item.cheese_spore_wood_axe.name=Cheese Spore Wooden Axe
 item.cheese_spore_wood_shovel.name=Cheese Spore Wooden Shovel
 item.cheese_spore_wood_hoe.name=Cheese Spore Wooden Hoe
+item.cheese_spore_door.name=Cheese Spore Door
 
 # ITEMS - NIBIRU
 item.nibiru_item.inferumite_crystal.name=Inferumite Crystal
 item.infected_wheat_seeds.name=Infected Wheat Seeds
 item.infected_door.name=Infected Door
 item.infected_dead_oak_door.name=Infected Dead Oak Door
+item.alien_berry_oak_door.name=Alien Berry Oak Door
 item.infected_water_bucket.name=Infected Water Bucket
 item.infected_wheat.name=Infected Wheat
 item.infected_clay_ball.name=Infected Clay Ball
 item.infected_snowball.name=Infected Snowball
 item.nibiru_dungeon_key.name=Nibiru Dungeon Key
-item.nibiru_item.multalic_crystal_pieces.name=Multalic Crystal
+item.nibiru_item.multalic_crystal.name=Multalic Crystal
+item.infected_prismarine_item.shard.name=Infected Prismarine Shard
+item.infected_prismarine_item.crystals.name=Infected Prismarine Crystals
 item.nibiru_fruits.infected_apple.name=Infected Apple
 item.nibiru_fruits.infected_golden_apple.name=Infected Golden Apple
 item.nibiru_fruits.infected_melon.name=Infected Melon
 item.nibiru_fruits.alien_berry.name=Alien Berry
 item.nibiru_fruits.golden_alien_berry.name=Golden Alien Berry
+item.nibiru_fruits.terraberry.name=Terraberry
 item.infected_sugar_cane.name=Infected Sugar Cane
 item.infected_egg.name=Infected Egg
 item.helium_gas_bucket.name=Helium Gas Bucket
@@ -309,6 +384,15 @@ item.multalic_crystal_boots.name=Multalic Crystal Boots
 item.breathable_multalic_crystal_helmet.name=Breathable Multalic Crystal Helmet
 item.infected_arrow.name=Infected Arrow
 item.nibiru_item.infected_coal.name=Infected Coal
+item.infected_melon_seeds.name=Infected Melon Seeds
+item.nuclear_waste_bucket.name=Nuclear Waste Bucket
+item.vein_eye.name=Vein Eye
+item.purify_water_bucket.name=Purify Water Bucket
+item.nibiru_item.shlime_tail.name=Shlime Tail
+item.nibiru_food.raw_shlime_meat.name=Raw Shlime Meat
+item.nibiru_food.cooked_shlime_meat.name=Cooked Shlime Meat
+item.waste_rod_picker.name=Waste Rod Picker
+item.nuclear_waste_rod.name=Nuclear Waste Rod
 
 # ENTITY
 entity.moreplanets.albetius_worm.name=Albetius Worm
@@ -337,6 +421,12 @@ entity.moreplanets.infected_squid.name=Infected Squid
 entity.moreplanets.infected_chicken.name=Infected Chicken
 entity.moreplanets.infected_cow.name=Infected Cow
 entity.moreplanets.infected_cave_spider.name=Infected Cave Spider
+entity.moreplanets.shlime.name=Shlime
+entity.moreplanets.nibiru_villager.name=Nibiru Villager
+entity.nibiru_villager.farmer=Nibiru Farmer
+entity.nibiru_villager.librarian=Nibiru Librarian
+entity.nibiru_villager.medic=Nibiru Medic
+entity.moreplanets.zergius.name=Zergius
 
 # NON-ENTITY
 entity.moreplanets.space_minecart_chest.name=Space Minecart Chest
@@ -344,52 +434,70 @@ entity.moreplanets.tier_4_rocket.name=Tier 4 Rocket
 entity.moreplanets.infected_crystallize_tentacle.name=Infected Crystallize Tentacle
 entity.moreplanets.tier_5_rocket.name=Tier 5 Rocket
 entity.moreplanets.cheese_spore.name=Cheese Spore
+entity.moreplanets.small_cheese_spore.name=Small Cheese Spore
+entity.moreplanets.infected_crystallize_bomb.name=Infected Crystallize Bomb
+entity.moreplanets.nibiru_lightning_bolt.name=Nibiru Lightning Bolt
+entity.moreplanets.dark_lightning_bolt.name=Dark Lightning Bolt
+entity.moreplanets.infected_snowball.name=Infected Snowball
+entity.moreplanets.black_hole.name=Black Hole
+entity.moreplanets.infected_egg.name=Infected Egg
+entity.moreplanets.infected_crystallize_arrow.name=Infected Crystallize Arrow
+entity.moreplanets.infected_arrow.name=Infected Arrow
+entity.moreplanets.space_fish_hook.name=Space Fish Hook
+entity.moreplanets.alien_beam.name=Alien Beam
 
 # POTIONS
 potion.infected_crystallize=Infected Crystallize
 potion.infected_spore=Infected Spore
 potion.dark_energy=Dark Energy
+potion.infected_spore_protection=Infected Spore Protection
+potion.dark_energy_protection=Dark Energy Protection
 
-# GUI
+# CHECKLIST KEYS
+checklist.craftInfectedProtectionCapsule.key=Craft Infected Protection Capsule
+
+# GUI CREATIVE
 itemGroup.MorePlanetsBlocks=More Planets Blocks
 itemGroup.MorePlanetsItems=More Planets Items
-itemGroup.MorePlanetsTools=More Planets Tools
-itemGroup.MorePlanetsArmor=More Planets Armor
-tier_4_desc.name=Tier 4
-tier_5_desc.name=Tier 5
-tier_6_desc.name=Tier 6
-gui.dark_energy_percent0.name=%s
-gui.dark_energy_percent1.name=% Complete
-gui.dark_energy_block_created.name=Core Created
-gui.dark_energy_ready.name=Ready
-gui.dark_energy_offline.name=Offline
-gui.dark_energy_status.name=Machine Status
 
-# MESSAGE
-gui.noWarpData.message=No Space Dimension Data collected
-gui.warpPadDataSet.message=Space Warp Pad dimension data set
-gui.warpPadDataSetFail.message=Failed to set dimension data, You need to collect dimension data first!
-gui.warpCoreDataSet.message=Space Dimension data collected
-gui.warpCoreDataSetFail0.message=You need to standing on Space Warp Pad to collect dimension data!
-gui.warpCoreDataSetFail1.message=You need to standing on the center of Space Warp Pad!
-gui.canPlaceOnlyInSpace.message=Warp Pad can be place in the Space or Overworld dimension only!
-gui.spaceDimensionOnly.message=Space Warper Core can be receive data from Space or Overworld dimension only!
+# GUI STATUS
+gui.status.no_warp_pos.name=No Warp Position
+gui.status.missing_warp_pad.name=Missing Warp Pad
+gui.status.dark_energy_percent0.name=%s
+gui.status.dark_energy_percent1.name=% Complete
+gui.status.dark_energy_core_created.name=Dark Energy Core Created
+gui.status.dark_energy_offline.name=Offline
+gui.status.machine_status.name=Machine Status
+gui.status.no_waste_sources.name=No Waste Sources
+gui.status.waste_depleted.name=Waste Depleted
+gui.status.waste_tank_depleted.name=Waste Tank Depleted
+gui.status.waste_and_tank_depleted.name=Power Sources Depleted
+gui.status.dark_energy_fuel.name=Dark Energy Fuel
+
+# GUI MESSAGE
+gui.no_warp_data.message=No Space Warp Pad data stored
+gui.cannot_detect_pad.message=Cannot Detect Space Warp Pad
+gui.warp_pad_data_add.message=Space Warp Pad data added
+gui.warp_pad_data_add_fail.message=Failed to set dimension data, You need to collect dimension data first!
+gui.place_only_space.message=Space Warp Pad can be placed only in the Space or Overworld dimension!
 gui.dark_energy_success.message=Dark Energy Receiver successfully activated
 gui.dark_energy_already_active.message=Dark Energy Receiver already activated
 gui.dark_energy_no_power.message=Dark Energy Receiver needs large power source to running!
 gui.dark_energy_disabled.message=You should enable this first!
 gui.dark_energy_malfunction.message=Dark Energy Receiver Malfunction, machine will explode in %s
-gui.warning.place_in_liquid=Cannot place block inside liquid!
+gui.warp_core_data_add.message=Space Dimension data added
+gui.warp_core_data_add_fail0.message=You need to standing on Space Warp Pad to collect dimension data!
+gui.warp_core_data_add_fail1.message=You need to standing on the center of Space Warp Pad!
+gui.space_dimension_only.message=Space Warper Core can be collect data only in Space or Overworld dimension!
+gui.place_in_liquid.message=Cannot place block inside liquid!
 
-# DEATH MESSAGE
+# GUI DEATH MESSAGE
 death.attack.infected_crystallize=%s was infected by poisoned crystal
 death.attack.infected_gas=%s was killed by infected gas
 death.attack.dark_energy=%s body was consumed by dark energy
+death.attack.black_hole=%s was sucked into black hole
 
-# COMMAND
-commands.effectmp.usage=/effectmp <player> <effect> [seconds] OR /effect <player> clear
-
-# CONFIG GUI
+# GUI CONFIG
 gui.config.mp=More Planets Configuration GUI
 gui.config.mp.general=Based More Planets Configuration. Version Checker, Debug, Mod Option. etc.
 gui.config.mp.dimension=Planet or Moon Dimension IDs Configuration.
@@ -408,12 +516,24 @@ tile.rocket_crusher.description=Rocket Crusher will turn rocket into the advance
 tile.cheese_of_milk_cake.description=Cheese of Milk Cake are created from Cheese of Milk Curd from Chalos, place-able and editble.
 tile.dark_energy_receiver.description=Dark Energy Receiver will collecting the unknown energy from distant planet in milky way galaxy, and used to create dark energy machine. So dangerous!
 tile.dark_energy_core.description=Used for transforming items that can handle dark power. (WIP)
-desc.energystored.name=Energy stored: %s
+tile.nuclear_waste_generator.description=Nuclear Waste Generator will collect nuclear waste radiation nearby that area to produce large power source.
+tile.tiered_energy_storage_cluster_0.description=Dark Energy Storage Cluster is used to store large amounts of energy for later use. Stores and outputs more energy than its predecessor. Also its used an alien material!
+tile.tiered_energy_storage_cluster_1.description=Nuclear Waste Energy Storage Cluster is used to store large amounts of energy for later use. Stores and outputs more energy than its predecessor. Nuclear Waste can be stored more energy!
+tile.dark_energy_generator.description=Dark Energy Generator will collect dark energy from unknown distant planet or Dark Energy Pearl, storing it for further use.
 item.infected_arrow.description=Can be obtained by thrown normal arrow into infected water
+desc.energystored.name=Energy Stored: %s
+desc.dark_energy_fuel.name=Dark Energy Fuel: %s
+tier_4_desc.name=Tier 4
+tier_5_desc.name=Tier 5
+tier_6_desc.name=Tier 6
 
 # CONTAINER
 container.space_warp_pad.name=Space Warp Pad
 container.dark_energy_receiver.name=Dark Energy Receiver
+container.nuclear_waste_generator.name=Nuclear Waste Generator
+container.tiered_energy_storage_cluster_0.name=Dark Energy Storage Cluster
+container.tiered_energy_storage_cluster_1.name=Nuclear Waste Storage Cluster
+container.dark_energy_generator.name=Dark Energy Generator
 container.diona.ancientchest.name=Diona Ancient Chest
 container.diona.treasurechest.name=Diona Treasure Chest
 container.chalos.ancientchest.name=Chalos Ancient Chest
