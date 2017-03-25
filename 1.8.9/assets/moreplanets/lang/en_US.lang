@@ -259,6 +259,7 @@ tile.terrastone_stairs.name=Terrastone Stairs
 tile.half_infected_stone_bricks_slab.terrastone.name=Terrastone Slab
 tile.terrastone_furnace.name=Terrastone Furnace
 tile.sealable_nuclear_waste_rod.name=Sealable Nuclear Waste Rod
+tile.nibiru_block.mossy_nibiru_dungeon_brick.name=Mossy Nibiru Dungeon Brick
 
 # ITEMS
 item.space_warper_core.name=Space Warper Core
@@ -344,7 +345,9 @@ item.infected_water_bucket.name=Infected Water Bucket
 item.infected_wheat.name=Infected Wheat
 item.infected_clay_ball.name=Infected Clay Ball
 item.infected_snowball.name=Infected Snowball
-item.nibiru_dungeon_key.name=Nibiru Dungeon Key
+item.nibiru_dungeon_key.nibiru_dungeon_key.name=Nibiru Dungeon Key
+item.nibiru_dungeon_key.nibiru_dungeon_key_part_1.name=Nibiru Dungeon Key Piece
+item.nibiru_dungeon_key.nibiru_dungeon_key_part_2.name=Nibiru Dungeon Key Piece
 item.nibiru_item.multalic_crystal.name=Multalic Crystal
 item.infected_prismarine_item.shard.name=Infected Prismarine Shard
 item.infected_prismarine_item.crystals.name=Infected Prismarine Crystals
@@ -427,6 +430,11 @@ entity.nibiru_villager.farmer=Nibiru Farmer
 entity.nibiru_villager.librarian=Nibiru Librarian
 entity.nibiru_villager.medic=Nibiru Medic
 entity.moreplanets.zergius.name=Zergius
+entity.moreplanets.infected_creeper.name=Infected Creeper
+entity.moreplanets.infected_skeleton.name=Infected Skeleton
+entity.moreplanets.vein_floater.name=Vein Floater
+entity.moreplanets.vein_floater_minion.name=Vein Floater Minion
+entity.moreplanets.mini_vein_floater.name=Mini Vein Floater
 
 # NON-ENTITY
 entity.moreplanets.space_minecart_chest.name=Space Minecart Chest
@@ -445,6 +453,8 @@ entity.moreplanets.infected_crystallize_arrow.name=Infected Crystallize Arrow
 entity.moreplanets.infected_arrow.name=Infected Arrow
 entity.moreplanets.space_fish_hook.name=Space Fish Hook
 entity.moreplanets.alien_beam.name=Alien Beam
+entity.moreplanets.vein_eye.name=Vein Eye
+entity.moreplanets.laser_bullet.name=Laser Bullet
 
 # POTIONS
 potion.infected_crystallize=Infected Crystallize
@@ -465,7 +475,7 @@ gui.status.no_warp_pos.name=No Warp Position
 gui.status.missing_warp_pad.name=Missing Warp Pad
 gui.status.dark_energy_percent0.name=%s
 gui.status.dark_energy_percent1.name=% Complete
-gui.status.dark_energy_core_created.name=Dark Energy Core Created
+gui.status.dark_energy_core_created.name=Core Created
 gui.status.dark_energy_offline.name=Offline
 gui.status.machine_status.name=Machine Status
 gui.status.no_waste_sources.name=No Waste Sources
@@ -491,6 +501,9 @@ gui.warp_core_data_add_fail1.message=You need to standing on the center of Space
 gui.space_dimension_only.message=Space Warper Core can be collect data only in Space or Overworld dimension!
 gui.place_in_liquid.message=Cannot place block inside liquid!
 
+# GUI DESCRIPTION
+gui.receiver_render_guide.desc=Receiver Placing Guide
+
 # GUI DEATH MESSAGE
 death.attack.infected_crystallize=%s was infected by poisoned crystal
 death.attack.infected_gas=%s was killed by infected gas
@@ -509,6 +522,10 @@ configdimensionguimp=Dimension Config
 configschematicguimp=Schematic Config
 configbiomeguimp=Biome Config
 configguiguimp=GUI Config
+
+# GUI JEI
+moreplanets.jei.darkEnergyTransform=Dark Energy Transform
+moreplanets.jei.rocketCrusher=Rocket Crusher
 
 # DESCRIPTION
 tile.space_warp_pad.description=Warp Pad allows you to travel in the space dimension, setup by 3x3 area.
