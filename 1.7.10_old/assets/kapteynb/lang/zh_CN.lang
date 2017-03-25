@@ -92,7 +92,7 @@ item.breathable_ice_crystal_helmet.name=透氧冰晶头盔
 
 # ENTITIES
 entity.MorePlanet.FrozenSludgeling.name=冷冻泥浆怪
-
+entity.MorePlanet.KapteynBCreeperBoss.name=卡普坦B苦力怕之王
 # DESCRIFTION
 schematic.tier8.rocket.name=8阶火箭
 desc.tier8.name=8阶
