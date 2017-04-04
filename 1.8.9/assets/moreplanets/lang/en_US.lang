@@ -90,6 +90,8 @@ tile.diona_dungeon_brick_stairs.name=Diona Dungeon Brick Stairs
 tile.dark_energy_generator.name=Dark Energy Generator
 tile.glowing_iron_block.name=Glowing Iron Block
 tile.crashed_alien_probe.name=Crashed Alien Probe
+tile.crystallize_water_fluid.name=Crystallize Water
+tile.crystallize_lava_fluid.name=Crystallize Lava
 
 # BLOCKS - CHALOS
 tile.cheese_grass.name=Cheese Grass
@@ -124,6 +126,9 @@ tile.chalos_dungeon_brick_stairs.name=Chalos Dungeon Brick Stairs
 tile.cheese_spore_stairs.name=Cheese Spore Stairs
 tile.cheese_spore_fence.name=Cheese Spore Fence
 tile.cheese_spore_fence_gate.name=Cheese Spore Fence Gate
+tile.cheese_farmland.name=Cheese Farmland
+tile.cheese_of_milk_fluid.name=Cheese of Milk
+tile.cheese_of_milk_gas.name=Cheese of Milk Gas
 
 # BLOCKS - NIBIRU
 tile.infected_grass.name=Infected Grass
@@ -260,6 +265,11 @@ tile.half_infected_stone_bricks_slab.terrastone.name=Terrastone Slab
 tile.terrastone_furnace.name=Terrastone Furnace
 tile.sealable_nuclear_waste_rod.name=Sealable Nuclear Waste Rod
 tile.nibiru_block.mossy_nibiru_dungeon_brick.name=Mossy Nibiru Dungeon Brick
+tile.infected_farmland.name=Infected Farmland
+tile.infected_water_fluid.name=Infected Water
+tile.helium_gas.name=Helium Gas
+tile.nuclear_waste_fluid.name=Nuclear Waste
+tile.purify_water_fluid.name=Purify Water
 
 # ITEMS
 item.space_warper_core.name=Space Warper Core
@@ -396,6 +406,8 @@ item.nibiru_food.raw_shlime_meat.name=Raw Shlime Meat
 item.nibiru_food.cooked_shlime_meat.name=Cooked Shlime Meat
 item.waste_rod_picker.name=Waste Rod Picker
 item.nuclear_waste_rod.name=Nuclear Waste Rod
+item.tier_6_rocket.name=Tier 6 Rocket
+item.nibiru_item.compressed_tier_5_rocket_plate.name=Compressed Tier 5 Rocket Plate
 
 # ENTITY
 entity.moreplanets.albetius_worm.name=Albetius Worm
@@ -515,13 +527,11 @@ gui.config.mp=More Planets Configuration GUI
 gui.config.mp.general=Based More Planets Configuration. Version Checker, Debug, Mod Option. etc.
 gui.config.mp.dimension=Planet or Moon Dimension IDs Configuration.
 gui.config.mp.biome=World Biome IDs Configuration.
-gui.config.mp.schematic=Rocket Schematic IDs Configuration.
-gui.config.mp.gui=GUI IDs Configuration.
+gui.config.mp.other=Others Configuration.
 configgeneralguimp=General Config
 configdimensionguimp=Dimension Config
-configschematicguimp=Schematic Config
 configbiomeguimp=Biome Config
-configguiguimp=GUI Config
+configotherguimp=Other Config
 
 # GUI JEI
 moreplanets.jei.darkEnergyTransform=Dark Energy Transform
@@ -559,6 +569,7 @@ container.nibiru.ancientchest.name=Nibiru Ancient Chest
 container.nibiru.treasurechest.name=Nibiru Treasure Chest
 container.schematic.rocketT4=Tier 4 Rocket
 container.schematic.rocketT5=Tier 5 Rocket
+container.schematic.rocketT6=Tier 6 Rocket
 
 # PLANETS
 planet.diona=Diona
