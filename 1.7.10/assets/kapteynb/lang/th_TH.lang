@@ -1,4 +1,4 @@
-# More Planet's : Kapteyn B = ENGLISH
+# More Planet's : Kapteyn B = THAI
 
 # BLOCK
 tile.kapteyn-b_block.surface_ice.name=น้ำแข็งพื้นผิวแคปเทน บี
@@ -10,17 +10,17 @@ tile.kapteyn-b_block.frozen_iron_ore.name=แร่เหล็กเป็น�
 tile.kapteyn-b_block.uranium_ore.name=แร่ยูเรเนียม
 tile.kapteyn-b_block.tin_ore.name=แร่ดีบุก
 tile.kapteyn-b_block.copper_ore.name=แร่ทองแดง
-tile.kapteyn-b_block.redstone_ore.name=Redstone Ore
+tile.kapteyn-b_block.redstone_ore.name=แร่เรดสโตน
 tile.kapteyn-b_block.namerium_block.name=Namerium Block
-tile.kapteyn-b_block.frozen_iron_block.name=Frozen Iron Block
-tile.kapteyn-b_block.uranium_block.name=Uranium Block
+tile.kapteyn-b_block.frozen_iron_block.name=บล็อคเหล็กแข็ง
+tile.kapteyn-b_block.uranium_block.name=บล็อคยูเรเนียม
 tile.kapteyn-b_block.dungeon_brick.name=Kapteyn B Dungeon Brick
-tile.rocky_soild_water.name=Rocky Solid Water
-tile.default_kapteyn-b_ice.name=Kapteyn B Ice
-tile.dirty_kapteyn-b_ice.name=Dirty Kapteyn B Ice
-tile.kapteyn-b_treasure_chest.name=Tier 8 Kapteyn B Treasure Chest
-tile.kapteyn-b_ancient_chest.name=Kapteyn B Ancient Chest
-tile.kapteyn-b_cobblestone_stairs.name=Kapteyn B Cobblestone Stairs
+tile.rocky_soild_water.name=น้ำแข็งหิน
+tile.default_kapteyn-b_ice.name=น้ำแข็งแคปเทน บี
+tile.dirty_kapteyn-b_ice.name=น้ำแข็งแคปเทน บี สกปรก
+tile.kapteyn-b_treasure_chest.name=กล่องสมบัติแคปเทน บี เทียร์ 8
+tile.kapteyn-b_ancient_chest.name=กล่องโบราณแคปเทน
+tile.kapteyn-b_cobblestone_stairs.name=บันไดหินหยาบแคปเทน บี
 tile.kapteyn-b_dungeon_brick_stairs.name=Kapteyn B Dungeon Brick Stairs
 tile.uranium_waste.active.name=Uranium Waste
 tile.uranium_waste.inactive.name=Inactive Uranium Waste
@@ -90,26 +90,26 @@ item.breathable_frozen_iron_helmet.name=Breathable Frozen Iron Helmet
 item.breathable_ice_crystal_helmet.name=Breathable Ice Crystal Helmet
 
 # ENTITIES
-entity.MorePlanet.FrozenSludgeling.name=Frozen Sludgeling
+entity.MorePlanet.FrozenSludgeling.name=หนอนแบคทีเรียแข็ง
 
 # DESCRIFTION
-schematic.tier8.rocket.name=Tier 8 Rocket
-desc.tier8.name=Tier 8
+schematic.tier8.rocket.name=จรวดเทียร์ 8
+desc.tier8.name=เทียร์ 8
 
 # DEATH MESSSAGE
-death.attack.chemical=%1$s was killed by chemical
-death.attack.icy_poison=%1$s was poisoned by Icy Poison Crystal
+death.attack.chemical=%1$s ถูกฆ่าโดยสารเคมี
+death.attack.icy_poison=%1$s ได้รับสารพิษจากผลึกพิษน้ำแข็ง
 
 # CONTAINER
-container.kapteynb.treasurechest.name=Kapteyn B Treasure Chest
-container.kapteynb.ancientchest.name=Kapteyn B Ancient Chest
-schematics.container.rocket.tier8=Tier 8 Rocket
+container.kapteynb.treasurechest.name=กล่องสมบัติแคปเทน บี
+container.kapteynb.ancientchest.name=กล่องโบราณแคปเทน บี
+schematics.container.rocket.tier8=จรวดเทียร์ 8
 
 # PLANET
-star.kapteyn=Kapteyn
-planet.kapteynB=Kapteyn B
-solarsystem.kapteyn=Kapteyn Solar System
+star.kapteyn=แคปเทน
+planet.kapteynB=แคปเทน บี
+solarsystem.kapteyn=ระบบสุริยะแคปเทน
 
 # POTION
-potion.chemical=Chemical
-potion.icy_poison=Icy Poison
+potion.chemical=สารเคมี
+potion.icy_poison=พิษน้ำแข็ง
