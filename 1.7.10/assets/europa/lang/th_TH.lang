@@ -26,14 +26,14 @@ tile.europa_fence_gate.name=ประตูรั้วดาวยูโรป�
 tile.europa_sandstone_stairs.name=บันไดหินทรายดาวยูโรปา
 tile.europa_wood_stairs.name=บันไดไม้ดาวยูโรปา
 item.europa_door.name=ประตูดาวยูโรปา
-tile.mp_wood_half_slab.europaWood.name=Europa Wood Slab
+tile.mp_wood_half_slab.europaWood.name=ไม้ดาวยูโรปาครึ่งขั้น
 
 # ITEMS
-item.europa_water_bucket.name=Europa Water Bucket
-item.europa_apple.name=Europa Apple
-item.europa_food.raw_europa_eel_meat.name=Raw Europa Eel Meat
-item.europa_food.cooked_europa_eel_meat.name=Cooked Europa Eel Meat
-item.europa_gunpowder.name=Europa Gunpowder
+item.europa_water_bucket.name=ถังน้ำดาวยูโรปา
+item.europa_apple.name=แอปเปิ้ลดาวยูโรปา
+item.europa_food.raw_europa_eel_meat.name=เนื้อปลาไหลดิบดาวยูโรปา
+item.europa_food.cooked_europa_eel_meat.name=เนื้อปลาไหลสุกดาวยูโรปา
+item.europa_gunpowder.name=ดินปืนดาวยูโรปา
 
 # DESCRIPTION
 
