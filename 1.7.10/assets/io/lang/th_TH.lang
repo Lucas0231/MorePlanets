@@ -18,7 +18,7 @@ tile.io_magma_rock.sulfur_rock.name=หินกำมะถัน
 # WALLS
 
 # ITEMS
-item.titanium_bucket.name=ถังไทเทเนี่ยม
+item.titanium_bucket.name=ถังไทเทเนียม
 item.io_lava_bucket.name=ถังลาวาไอโอ
 item.liquid_red_sulfur_bucket.name=ถังกำมะถันเหลวสีแดง
 item.liquid_yellow_sulfur_bucket.name=ถังกำมะถันเหลวสีเหลือง
