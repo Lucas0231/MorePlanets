@@ -5,42 +5,42 @@ tile.kapteyn-b_block.surface_ice.name=น้ำแข็งพื้นผิว
 tile.kapteyn-b_block.sub_surface_ice.name=น้ำแข็งรองพื้นผิวแคปเทน บี
 tile.kapteyn-b_block.stone.name=หินแคปเทน บี
 tile.kapteyn-b_block.cobblestone.name=หินหยาบแคปเทน บี
-tile.kapteyn-b_block.namerium_ore.name=Namerium Crystal Ore
+tile.kapteyn-b_block.namerium_ore.name=แร่ผลึกแนเมอร์เรียม
 tile.kapteyn-b_block.frozen_iron_ore.name=แร่เหล็กเป็นน้ำแข็ง
 tile.kapteyn-b_block.uranium_ore.name=แร่ยูเรเนียม
 tile.kapteyn-b_block.tin_ore.name=แร่ดีบุก
 tile.kapteyn-b_block.copper_ore.name=แร่ทองแดง
 tile.kapteyn-b_block.redstone_ore.name=แร่เรดสโตน
-tile.kapteyn-b_block.namerium_block.name=Namerium Block
+tile.kapteyn-b_block.namerium_block.name=บล็อคแนเมอร์เรียม
 tile.kapteyn-b_block.frozen_iron_block.name=บล็อคเหล็กแข็ง
 tile.kapteyn-b_block.uranium_block.name=บล็อคยูเรเนียม
-tile.kapteyn-b_block.dungeon_brick.name=Kapteyn B Dungeon Brick
+tile.kapteyn-b_block.dungeon_brick.name=อิฐดันเจี้ยนแคปเทน บี
 tile.rocky_soild_water.name=น้ำแข็งหิน
 tile.default_kapteyn-b_ice.name=น้ำแข็งแคปเทน บี
 tile.dirty_kapteyn-b_ice.name=น้ำแข็งแคปเทน บี สกปรก
 tile.kapteyn-b_treasure_chest.name=กล่องสมบัติแคปเทน บี เทียร์ 8
 tile.kapteyn-b_ancient_chest.name=กล่องโบราณแคปเทน
 tile.kapteyn-b_cobblestone_stairs.name=บันไดหินหยาบแคปเทน บี
-tile.kapteyn-b_dungeon_brick_stairs.name=Kapteyn B Dungeon Brick Stairs
+tile.kapteyn-b_dungeon_brick_stairs.name=บันไดอิฐดันเจี้ยนแคปเทน บี
 tile.uranium_waste.active.name=ของเสียยูเรเนียม
-tile.uranium_waste.inactive.name=Inactive Uranium Waste
-tile.uranium_bomb.name=Uranium Bomb
+tile.uranium_waste.inactive.name=ของเสียยูเรเนียมไม่ทำงาน
+tile.uranium_bomb.name=ระเบิดยูเรเนียม
 tile.frozen_water_fluid.name=น้ำแข็ง
-tile.fallen_ice_crystal_meteor.name=Fallen Ice Crystal Meteor
-tile.frozen_water_geyser.name=Frozen Water Geyser
-tile.icy_poison_crystal.name=Icy Poison Crystal
+tile.fallen_ice_crystal_meteor.name=ผลึกอุกกาบาตน้ำแข็งที่ตกแล้ว
+tile.frozen_water_geyser.name=น้ำพุน้ำแข็ง
+tile.icy_poison_crystal.name=ผลึกพิษน้ำแข็ง
 
 # SLABS
-tile.mp_stone_half_slab2.kapteyn.name=Kapteyn B Cobblestone Slab
-tile.dungeon_brick_half_slab1.kapteynBrick.name=Kapteyn B Dungeon Brick Slab
+tile.mp_stone_half_slab2.kapteyn.name=หินหยาบแคปเทน บี ครึ่งขั้น
+tile.dungeon_brick_half_slab1.kapteynBrick.name=อิฐดันเจี้ยนแคปเทน บี ครึ่งขั้น
 
-# WALLS
-tile.mp_wall.kapteyn.name=Kapteyn B Cobblestone Wall
-tile.mp_dungeon_brick_wall.kapteynBrick.name=Kapteyn B Dungeon Brick Wall
+# WALL
+tile.mp_wall.kapteyn.name=กำแพงหินหยาบแคปเทน บี
+tile.mp_dungeon_brick_wall.kapteynBrick.name=กำแพงอิฐดันเจี้ยนแคปเทน บี
 
 # ITEMS
-item.kapteyn-b_dungeon_key.name=Tier 8 Kapteyn B Dungeon Key
-item.uranium_battery.name=Uranium Battery
+item.kapteyn-b_dungeon_key.name=กึญแจดันเจี้ยนแคปเทน บี เทียร์ 8
+item.uranium_battery.name=แบตเตอรี่ยูเรเนียม
 item.kapteyn-b_item.frozen_iron_ingot.name=Frozen Iron Ingot
 item.kapteyn-b_item.uranium_gem.name=Uranium Gem
 item.kapteyn-b_item.compressed_frozen_iron.name=Compressed Frozen Iron
@@ -49,7 +49,7 @@ item.kapteyn-b_item.uranium_stick.name=Uranium Stick
 item.kapteyn-b_item.frozen_iron_stick.name=Frozen Iron Stick
 item.kapteyn-b_item.ice_crystal_shard.name=Ice Crystal Shard
 item.namerium_crystal.name=Namerium Crystal
-item.tier_8_rocket.name=Tier 8 Rocket
+item.tier_8_rocket.name=จรวด เทียร์ 8
 item.tier_8_rocket_schematic.name=NASA Workbench Schematic
 item.tier_8_rocket_module.tier8_rocket_engine.name=Tier 8 Rocket Engine
 item.tier_8_rocket_module.tier8_booster.name=Tier 8 Booster
@@ -102,7 +102,7 @@ death.attack.icy_poison=%1$s ได้รับสารพิษจากผล
 
 # CONTAINER
 container.kapteynb.treasurechest.name=กล่องสมบัติแคปเทน บี
-container.kapteynb.ancientchest.name=กล่องโบราณแคปเทน บี
+container.kapteynb.ancientchest.name=กล่องสมบัติแคปเทน บี โบราณ
 schematics.container.rocket.tier8=จรวดเทียร์ 8
 
 # PLANET
