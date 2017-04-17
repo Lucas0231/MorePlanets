@@ -5,7 +5,7 @@ tile.kapteyn-b_block.surface_ice.name=น้ำแข็งพื้นผิว
 tile.kapteyn-b_block.sub_surface_ice.name=น้ำแข็งรองพื้นผิวแคปเทน บี
 tile.kapteyn-b_block.stone.name=หินแคปเทน บี
 tile.kapteyn-b_block.cobblestone.name=หินหยาบแคปเทน บี
-tile.kapteyn-b_block.namerium_ore.name=แร่ผลึกแนเมอร์เรียม
+tile.kapteyn-b_block.namerium_ore.name=แร่คริสตัลแนเมอร์เรียม
 tile.kapteyn-b_block.frozen_iron_ore.name=แร่เหล็กเป็นน้ำแข็ง
 tile.kapteyn-b_block.uranium_ore.name=แร่ยูเรเนียม
 tile.kapteyn-b_block.tin_ore.name=แร่ดีบุก
@@ -26,9 +26,9 @@ tile.uranium_waste.active.name=ของเสียยูเรเนียม
 tile.uranium_waste.inactive.name=ของเสียยูเรเนียมไม่ทำงาน
 tile.uranium_bomb.name=ระเบิดยูเรเนียม
 tile.frozen_water_fluid.name=น้ำแข็ง
-tile.fallen_ice_crystal_meteor.name=ผลึกอุกกาบาตน้ำแข็งที่ตกแล้ว
+tile.fallen_ice_crystal_meteor.name=คริสตัลอุกกาบาตน้ำแข็งที่ตกแล้ว
 tile.frozen_water_geyser.name=น้ำพุน้ำแข็ง
-tile.icy_poison_crystal.name=ผลึกพิษน้ำแข็ง
+tile.icy_poison_crystal.name=คริสตัลพิษน้ำแข็ง
 
 # SLABS
 tile.mp_stone_half_slab2.kapteyn.name=หินหยาบแคปเทน บี ครึ่งขั้น
@@ -47,8 +47,8 @@ item.kapteyn-b_item.compressed_frozen_iron.name=เหล็กแข็งอ�
 item.frozen_water_bucket.name=ถังน้ำแข็ง
 item.kapteyn-b_item.uranium_stick.name=แท่งยูเรเนียม
 item.kapteyn-b_item.frozen_iron_stick.name=แท่งเหล็กแข็ง
-item.kapteyn-b_item.ice_crystal_shard.name=เศษผลึกน้ำแข็ง
-item.namerium_crystal.name=ผลึกแนเมอร์เรียม
+item.kapteyn-b_item.ice_crystal_shard.name=เศษคริสตัลน้ำแข็ง
+item.namerium_crystal.name=คริสตัลแนเมอร์เรียม
 item.tier_8_rocket.name=จรวด เทียร์ 8
 item.tier_8_rocket_schematic.name=แผนผังโต๊ะทำงานนาซ่า
 item.tier_8_rocket_module.tier8_rocket_engine.name=เครื่องยนต์จรวด เทียร์ 8
@@ -66,11 +66,11 @@ item.uranium_axe.name=ขวานยูเรเนียม
 item.uranium_hoe.name=จอบยูเรเนียม
 item.uranium_spade.name=พลั่วยูเรเนียม
 item.uranium_sword.name=ดาบยูเรเนียม
-item.ice_crystal_sword.name=ดาบผลึกน้ำแข็ง
-item.ice_crystal_shovel.name=พลั่วผลึกน้ำแข็ง
-item.ice_crystal_axe.name=ขวานผลึกน้ำแข็ง
-item.ice_crystal_pickaxe.name=อีเต้อผลึกน้ำแข็ง
-item.ice_crystal_hoe.name=จอบผลึกน้ำแข็ง
+item.ice_crystal_sword.name=ดาบคริสตัลน้ำแข็ง
+item.ice_crystal_shovel.name=พลั่วคริสตัลน้ำแข็ง
+item.ice_crystal_axe.name=ขวานคริสตัลน้ำแข็ง
+item.ice_crystal_pickaxe.name=อีเต้อคริสตัลน้ำแข็ง
+item.ice_crystal_hoe.name=จอบคริสตัลน้ำแข็ง
 
 # ARMORS
 item.uranium_helmet.name=หมวกยูเรเนียม
@@ -81,13 +81,13 @@ item.frozen_iron_helmet.name=หมวกเหล็กแข็ง
 item.frozen_iron_chestplate.name=เสื้อเกราะเหล็กแข็ง
 item.frozen_iron_leggings.name=กางเกงเหล็กแข็ง
 item.frozen_iron_boots.name=รองเท้าเหล็กแข็ง
-item.ice_crystal_helmet.name=หมวกผลึกน้ำแข็ง
-item.ice_crystal_chestplate.name=เสื้อเกราะผลึกน้ำแข็ง
-item.ice_crystal_leggings.name=กางเกงผลึกน้ำแข็ง
-item.ice_crystal_boots.name=รองเท้าผลึกน้ำแข็ง
+item.ice_crystal_helmet.name=หมวกคริสตัลน้ำแข็ง
+item.ice_crystal_chestplate.name=เสื้อเกราะคริสตัลน้ำแข็ง
+item.ice_crystal_leggings.name=กางเกงคริสตัลน้ำแข็ง
+item.ice_crystal_boots.name=รองเท้าคริสตัลน้ำแข็ง
 item.breathable_uranium_helmet.name=หมวกยูเรเนียมหายใจได้
 item.breathable_frozen_iron_helmet.name=หมวกเหล็กแข็งหายใจได้
-item.breathable_ice_crystal_helmet.name=หมวกผลึกน้ำแข็งหายใจได้
+item.breathable_ice_crystal_helmet.name=หมวกคริสตัลน้ำแข็งหายใจได้
 
 # ENTITIES
 entity.MorePlanet.FrozenSludgeling.name=หนอนแบคทีเรียแข็ง
@@ -98,7 +98,7 @@ desc.tier8.name=เทียร์ 8
 
 # DEATH MESSSAGE
 death.attack.chemical=%1$s ถูกฆ่าโดยสารเคมี
-death.attack.icy_poison=%1$s ได้รับสารพิษจากผลึกพิษน้ำแข็ง
+death.attack.icy_poison=%1$s ได้รับสารพิษจากคริสตัลพิษน้ำแข็ง
 
 # CONTAINER
 container.kapteynb.treasurechest.name=กล่องสมบัติแคปเทน บี
