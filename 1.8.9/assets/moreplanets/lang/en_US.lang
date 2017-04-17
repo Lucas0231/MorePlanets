@@ -408,6 +408,7 @@ item.waste_rod_picker.name=Waste Rod Picker
 item.nuclear_waste_rod.name=Nuclear Waste Rod
 item.tier_6_rocket.name=Tier 6 Rocket
 item.nibiru_item.compressed_tier_5_rocket_plate.name=Compressed Tier 5 Rocket Plate
+item.nibiru_item.infected_charcoal.name=Infected Charcoal
 
 # ENTITY
 entity.moreplanets.albetius_worm.name=Albetius Worm
