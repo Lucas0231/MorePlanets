@@ -1,10 +1,10 @@
-# More Planets 1.7.10 : Nibiru = ENGLISH
+﻿# More Planets 1.7.10 : Nibiru = THAI
 
 # BLOCKS
-tile.nibiru_block.surface_rock.name=Nibiru Surface Rock
-tile.nibiru_block.sub_surface_rock.name=Nibiru Sub-Surface Rock
-tile.nibiru_block.rock.name=Nibiru Rock
-tile.nibiru_block.cobblestone.name=Nibiru Cobblestone
+tile.nibiru_block.surface_rock.name=หินพื้นผิวนิบิรุ
+tile.nibiru_block.sub_surface_rock.name=หินรองพื้นผิวนิบิรุ
+tile.nibiru_block.rock.name=หินนิบิรุ
+tile.nibiru_block.cobblestone.name=หินหยาบนิบิรุ
 tile.nibiru_block.ichorius_ore.name=Ichorius Gem Ore
 tile.nibiru_block.norium_ore.name=Norium Ore
 tile.nibiru_block.diamond_ore.name=Diamond Ore
