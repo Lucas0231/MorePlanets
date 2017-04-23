@@ -1,4 +1,4 @@
-﻿# More Planets 1.7.10 : Nibiru = THAI
+# More Planets 1.7.10 : Nibiru = THAI
 
 # BLOCKS
 tile.nibiru_block.surface_rock.name=หินพื้นผิวนิบิรุ
@@ -6,19 +6,19 @@ tile.nibiru_block.sub_surface_rock.name=หินรองพื้นผิว�
 tile.nibiru_block.rock.name=หินนิบิรุ
 tile.nibiru_block.cobblestone.name=หินหยาบนิบิรุ
 tile.nibiru_block.ichorius_ore.name=Ichorius Gem Ore
-tile.nibiru_block.norium_ore.name=Norium Ore
-tile.nibiru_block.diamond_ore.name=Diamond Ore
-tile.nibiru_block.coal_ore.name=Coal Ore
+tile.nibiru_block.norium_ore.name=แร่โนเรียม
+tile.nibiru_block.diamond_ore.name=แร่เพชร
+tile.nibiru_block.coal_ore.name=แร่ถ่าน
 tile.nibiru_block.red_gem_ore.name=Red Gem Ore
 tile.nibiru_block.ichorius_block.name=Ichorius Block
-tile.nibiru_block.norium_block.name=Norium Block
+tile.nibiru_block.norium_block.name=บล็อคโนเรียม
 tile.nibiru_block.red_gem_block.name=Red Gem Block
-tile.nibiru_block.dungeon_brick.name=Nibiru Dungeon Brick
-tile.oil_rock.oil_rock.name=Dry Oil Rock
-tile.oil_rock.oil_ore.name=Oil Ore
-tile.helium_block.name=Helium Block
-tile.nibiru_treasure_chest.name=Tier 6 Nibiru Treasure Chest
-tile.nibiru_ancient_chest.name=Nibiru Ancient Chest
+tile.nibiru_block.dungeon_brick.name=อิฐดันเจี้ยนนิบิรุ
+tile.oil_rock.oil_rock.name=หินน้ำมันแห้ง
+tile.oil_rock.oil_ore.name=หินน้ำมัน
+tile.helium_block.name=บล็อคฮีเลียม
+tile.nibiru_treasure_chest.name=กล่องสมบัตินิบิรุ
+tile.nibiru_ancient_chest.name=กล่องสมบัตินิบิรุโบราณ
 tile.infected_worm_egg.name=Infected Worm Egg Rock
 tile.infected_zombie_egg.name=Infected Zombie Egg
 tile.power_crystal_generator.name=Power Crystal Generator
@@ -63,29 +63,29 @@ tile.mp_dungeon_brick_wall.nibiruBrick.name=Nibiru Dungeon Brick Wall
 
 # ITEMS
 item.nibiru_dungeon_key.name=Tier 6 Dungeon Key
-item.nibiru_food.space_apple.name=Space Apple
-item.nibiru_food.space_orange.name=Space Orange
+item.nibiru_food.space_apple.name=แอปเปิ้ลอวกาศ
+item.nibiru_food.space_orange.name=ส้มอวกาศ
 item.power_crystal.name=Ichorius Gem
-item.nibiru_food.orange_juice.name=Orange Juice
+item.nibiru_food.orange_juice.name=น้ำส้ม
 item.nibiru_item.compressed_red_gem.name=Compressed Red Gem
 item.nibiru_item.red_gem.name=Red Gem
 item.nibiru_item.red_gem_stick.name=Red Gem Stick
-item.nibiru_item.norium_ingot.name=Norium Ingot
+item.nibiru_item.norium_ingot.name=แท่งโนเรียม
 item.nibiru_item.compressed_norium.name=Compressed Norium
 item.nibiru_item.norium_stick.name=Norium Stick
-item.tier_6_rocket.name=Tier 6 Rocket
-item.tier_7_rocket_module.tier7_booster.name=Tier 7 Booster
-item.tier_7_rocket_module.tier7_rocket_engine.name=Tier 7 Rocket Engine
+item.tier_6_rocket.name=จรวด
+item.tier_7_rocket_module.tier7_booster.name=บูสเตอร์ เทียร์ 7
+item.tier_7_rocket_module.tier7_rocket_engine.name=เครื่องยนต์จรวด เทียร์ 7
 item.tier_7_rocket_module.tier7_heavy_duty_plate.name=Heavy Duty Plate
-item.tier_7_rocket_module.tier7_rocket_fin.name=Tier 7 Rocket Fin
-item.tier_7_rocket_module.tier7_nose_cone.name=Tier 7 Nose Cone
-item.tier_6_rocket_schematic.tier6_schematic_rocket_no_flag.name=NASA Workbench Schematic
-item.tier_6_rocket_schematic.tier6_schematic_rocket.name=NASA Workbench Schematic
+item.tier_7_rocket_module.tier7_rocket_fin.name=ปีกจรวด เทียร์ 7
+item.tier_7_rocket_module.tier7_nose_cone.name=กรวยจรวด เทียร์ 7
+item.tier_6_rocket_schematic.tier6_schematic_rocket_no_flag.name=แผนผังโต๊ะทำงานนาซ่า
+item.tier_6_rocket_schematic.tier6_schematic_rocket.name=แผนผังโต๊ะทำงานนาซ่า
 item.ancient_dark_door.name=Ancient Dark Door
-item.orange_door.name=Orange Door
+item.orange_door.name=ประตูสีส้ม
 
 # DESCRIPTION
-desc.tier7.name=Tier 7
+desc.tier7.name=เทียร์ 7
 
 # SCHEMATIC
 schematic.tier6.rocket.name=จรวด เทียร์ 6
@@ -97,21 +97,21 @@ item.red_gem_axe.name=Red Gem Axe
 item.red_gem_hoe.name=Red Gem Hoe
 item.red_gem_spade.name=Red Gem Shovel
 item.red_gem_sword.name=Red Gem Sword
-item.norium_pickaxe.name=Norium Pickaxe
-item.norium_axe.name=Norium Axe
-item.norium_hoe.name=Norium Hoe
-item.norium_spade.name=Norium Shovel
-item.norium_sword.name=Norium Sword
+item.norium_pickaxe.name=อีเต้อโนเรียม
+item.norium_axe.name=ขวานโนเรียม
+item.norium_hoe.name=จอบโนเรียม
+item.norium_spade.name=พลั่วโนเรียม
+item.norium_sword.name=ดาบโนเรียม
 
 # ARMOR
 item.red_gem_helmet.name=Red Gem Helmet
 item.red_gem_chestplate.name=Red Gem Chestplate
 item.red_gem_leggings.name=Red Gem Leggings
 item.red_gem_boots.name=Red Gem Boots
-item.norium_helmet.name=Norium Helmet
-item.norium_chestplate.name=Norium Chestplate
-item.norium_leggings.name=Norium Leggings
-item.norium_boots.name=Norium Boots
+item.norium_helmet.name=หมวกโนเรียม
+item.norium_chestplate.name=เสื้อเกราะโนเรียม
+item.norium_leggings.name=กางเกงโนเรียม
+item.norium_boots.name=รองเท้าโนเรียม
 item.breathable_red_gem_helmet.name=Breathable Red Gem Helmet
 item.breathable_norium_helmet.name=Breathable Norium Helmet
 
@@ -128,14 +128,14 @@ tile.power_crystal_generator.desc=Power Crystal Generator will collect energy fr
 gui.status.power.name=Collecting
 
 # CONTAINER
-container.nibiru.ancientchest.name=Nibiru Ancient Chest
+container.nibiru.ancientchest.name=กล่องสมบัติโบราณนิบิรุ
 container.powercrystal.name=Power Crystal Generator
-container.nibiru.treasurechest.name=Nibiru Treasure Chest
+container.nibiru.treasurechest.name=กล่องสมบัตินิบิรุ
 schematics.container.rocket.tier6=จรวด เทียร์ 6
 schematics.container.rocket.noflag.tier6=จรวด เทียร์ 6 ไม่มีธง
 
 # PLANET
-planet.nibiru=Nibiru
+planet.nibiru=นิบิรุ
 
 # POTION
 potion.infected.gas=Infected Gas
