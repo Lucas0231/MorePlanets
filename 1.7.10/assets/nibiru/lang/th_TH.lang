@@ -1,4 +1,4 @@
-# More Planets 1.7.10 : Nibiru = THAI
+﻿# More Planets 1.7.10 : Nibiru = THAI
 
 # BLOCKS
 tile.nibiru_block.surface_rock.name=หินพื้นผิวนิบิรุ
@@ -62,17 +62,17 @@ tile.mp_wall.nibiru.name=Nibiru Cobblestone Wall
 tile.mp_dungeon_brick_wall.nibiruBrick.name=Nibiru Dungeon Brick Wall
 
 # ITEMS
-item.nibiru_dungeon_key.name=Tier 6 Dungeon Key
+item.nibiru_dungeon_key.name=Tier 6 Dungeon Key กุญแจดันเจี้ยนเทียร์ 6
 item.nibiru_food.space_apple.name=แอปเปิ้ลอวกาศ
 item.nibiru_food.space_orange.name=ส้มอวกาศ
 item.power_crystal.name=Ichorius Gem
 item.nibiru_food.orange_juice.name=น้ำส้ม
-item.nibiru_item.compressed_red_gem.name=Compressed Red Gem
-item.nibiru_item.red_gem.name=Red Gem
-item.nibiru_item.red_gem_stick.name=Red Gem Stick
-item.nibiru_item.norium_ingot.name=แท่งโนเรียม
-item.nibiru_item.compressed_norium.name=Compressed Norium
-item.nibiru_item.norium_stick.name=Norium Stick
+item.nibiru_item.compressed_red_gem.name=อัญมณีแดงอัด
+item.nibiru_item.red_gem.name=อัญมณีแดง
+item.nibiru_item.red_gem_stick.name=แท่งอัญมณีแดง
+item.nibiru_item.norium_ingot.name=ก้อนโนเรียม
+item.nibiru_item.compressed_norium.name=โนเรียมอัด
+item.nibiru_item.norium_stick.name=แท่งโนเรียม
 item.tier_6_rocket.name=จรวด
 item.tier_7_rocket_module.tier7_booster.name=บูสเตอร์ เทียร์ 7
 item.tier_7_rocket_module.tier7_rocket_engine.name=เครื่องยนต์จรวด เทียร์ 7
@@ -81,7 +81,7 @@ item.tier_7_rocket_module.tier7_rocket_fin.name=ปีกจรวด เที�
 item.tier_7_rocket_module.tier7_nose_cone.name=กรวยจรวด เทียร์ 7
 item.tier_6_rocket_schematic.tier6_schematic_rocket_no_flag.name=แผนผังโต๊ะทำงานนาซ่า
 item.tier_6_rocket_schematic.tier6_schematic_rocket.name=แผนผังโต๊ะทำงานนาซ่า
-item.ancient_dark_door.name=Ancient Dark Door
+item.ancient_dark_door.name=ประตูโบราณมืด
 item.orange_door.name=ประตูสีส้ม
 
 # DESCRIPTION
@@ -104,16 +104,16 @@ item.norium_spade.name=พลั่วโนเรียม
 item.norium_sword.name=ดาบโนเรียม
 
 # ARMOR
-item.red_gem_helmet.name=Red Gem Helmet
-item.red_gem_chestplate.name=Red Gem Chestplate
-item.red_gem_leggings.name=Red Gem Leggings
-item.red_gem_boots.name=Red Gem Boots
+item.red_gem_helmet.name=หมวกอัญมณีแดง
+item.red_gem_chestplate.name=เสื้อเกราะอัญมณีแดง
+item.red_gem_leggings.name=กางเกงอัญมณีแดง
+item.red_gem_boots.name=รองเท้าอัญมณีแดง
 item.norium_helmet.name=หมวกโนเรียม
 item.norium_chestplate.name=เสื้อเกราะโนเรียม
 item.norium_leggings.name=กางเกงโนเรียม
 item.norium_boots.name=รองเท้าโนเรียม
-item.breathable_red_gem_helmet.name=Breathable Red Gem Helmet
-item.breathable_norium_helmet.name=Breathable Norium Helmet
+item.breathable_red_gem_helmet.name=หมวกอัญมณีแดงหายใจได้
+item.breathable_norium_helmet.name=หมวกโนเรียมหายใจได้
 
 # ENTITIES
 entity.MorePlanet.InfectedWorm.name=Infected Worm

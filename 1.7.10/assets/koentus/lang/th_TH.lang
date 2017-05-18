@@ -1,4 +1,4 @@
-# More Planets 1.7.10 : Koentus = THAI
+﻿# More Planets 1.7.10 : Koentus = THAI
 
 # BLOCKS
 tile.koentus_block.surface_stone.name=หินพื้นผิวโคน์ตัส
@@ -108,8 +108,8 @@ entity.MorePlanet.KoentusSludgeling.name=Koentus Sludgeling
 # GUI
 
 # CONTAINER
-container.koentus.treasurechest.name=Koentus Treasure Chest
-container.koentus.ancientchest.name=Koentus Ancient Chest
+container.koentus.treasurechest.name=กล่องสมบัติโคน์ตัส
+container.koentus.ancientchest.name=กล่องสมบัติโคน์ตัสโบราณ
 
 # PLANET
-moon.koentus=Koentus
+moon.koentus=โคน์ตัส
